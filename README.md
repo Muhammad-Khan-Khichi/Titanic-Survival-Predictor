@@ -33,7 +33,7 @@ A machine learning web app built with **Streamlit** that predicts whether a Tita
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/titanic-survival-predictor.git
+git clone https://github.com/Muhammad-Khan-Khichi/Titanic-Survival-Predictor
 cd titanic-survival-predictor
 ```
 
@@ -112,9 +112,8 @@ joblib
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ---
 
-> *"She sank at 2:20 a.m. on April 15, 1912."*  
 > Built for educational purposes using the public Titanic dataset.
