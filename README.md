@@ -13,6 +13,10 @@ A machine learning web app built with **Streamlit** that predicts whether a Tita
 - Clean, dark-themed nautical UI
 
 ---
+## 🌐 Live Demo
+
+👉 Try the app here:
+https://titanic-survival-predictor-mk.streamlit.app/
 
 ## 🗂️ Project Structure
 
